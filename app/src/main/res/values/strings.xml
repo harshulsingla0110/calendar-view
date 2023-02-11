@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ET Money Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_calendar">Show Calendar</string>
+    <string name="hide_calendar">Hide Calendar</string>
+    <string name="enter_todo_hint">Enter Title</string>
+    <string name="enter_todo_date">Select Date</string>
+    <string name="update_task">Update Task</string>
+    <string name="add_task">Add Task</string>
+</resources>
